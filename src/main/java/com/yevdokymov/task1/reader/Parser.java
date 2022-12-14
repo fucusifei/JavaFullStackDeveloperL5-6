@@ -45,13 +45,4 @@ public class Parser {
         System.out.println(handler.violations);
         return handler.violations;
     }
-    public static void main(String[] args) throws Exception {
-
-        Parser parser = new Parser();
-        FileWriter j = new FileWriter();
-        j.writeObjectListToJson(parser.firstParse());
-
-    }
-
-
-}
+ }
