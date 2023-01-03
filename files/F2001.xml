@@ -45,15 +45,8 @@
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -91,18 +84,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -140,18 +126,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -189,18 +168,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -238,18 +210,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -285,20 +250,13 @@
         <last_name>Ivanov</last_name>
         <type>ALCOHOL</type>
         <Fine_amount>5600.00</Fine_amount>
-    </violation>
-    <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -336,18 +294,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -385,18 +336,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -434,18 +378,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -483,18 +420,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -532,18 +462,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -584,15 +507,8 @@
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-    <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -630,18 +546,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -679,18 +588,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -731,15 +633,8 @@
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -777,18 +672,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -826,18 +714,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -873,20 +754,13 @@
         <last_name>Ivanov</last_name>
         <type>ALCOHOL</type>
         <Fine_amount>5600.00</Fine_amount>
-    </violation>
-    <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -924,18 +798,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -973,18 +840,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -1022,18 +882,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -1071,18 +924,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -1120,18 +966,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -1167,20 +1006,13 @@
         <last_name>Ivanov</last_name>
         <type>ALCOHOL</type>
         <Fine_amount>5600.00</Fine_amount>
-    </violation>
-    <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -1218,18 +1050,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -1267,18 +1092,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -1316,18 +1134,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -1365,18 +1176,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -1417,15 +1221,8 @@
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -1461,21 +1258,13 @@
         <last_name>Ivanov</last_name>
         <type>ALCOHOL</type>
         <Fine_amount>5600.00</Fine_amount>
-    </violation>
-    <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
     </violation>
-
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -1513,18 +1302,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -1565,15 +1347,8 @@
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -1611,18 +1386,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -1660,18 +1428,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -1709,18 +1470,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -1756,20 +1510,13 @@
         <last_name>Ivanov</last_name>
         <type>ALCOHOL</type>
         <Fine_amount>5600.00</Fine_amount>
-    </violation>
-    <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -1807,18 +1554,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -1856,18 +1596,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -1905,18 +1638,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -1954,18 +1680,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -2003,18 +1722,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -2050,20 +1762,13 @@
         <last_name>Ivanov</last_name>
         <type>ALCOHOL</type>
         <Fine_amount>5600.00</Fine_amount>
-    </violation>
-    <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -2101,18 +1806,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -2150,18 +1848,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -2199,18 +1890,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -2251,15 +1935,8 @@
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -2297,18 +1974,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -2344,20 +2014,13 @@
         <last_name>Ivanov</last_name>
         <type>ALCOHOL</type>
         <Fine_amount>5600.00</Fine_amount>
-    </violation>
-    <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -2398,15 +2061,8 @@
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -2447,18 +2103,11 @@
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
+        <type>SPEEDING</type>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
-     <violation>
+    <violation>
         <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
-    </violation>
-    <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Viktor</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
@@ -2493,18 +2142,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -2542,18 +2184,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -2591,18 +2226,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -2638,20 +2266,13 @@
         <last_name>Ivanov</last_name>
         <type>ALCOHOL</type>
         <Fine_amount>5600.00</Fine_amount>
-    </violation>
-    <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -2689,18 +2310,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -2738,18 +2352,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -2787,18 +2394,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -2836,18 +2436,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -2885,18 +2478,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -2932,22 +2518,13 @@
         <last_name>Ivanov</last_name>
         <type>ALCOHOL</type>
         <Fine_amount>5600.00</Fine_amount>
-    </violation>
-    <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
     </violation>
-
-
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -2985,18 +2562,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -3034,18 +2604,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -3083,18 +2646,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -3135,15 +2691,8 @@
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -3181,18 +2730,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -3228,20 +2770,13 @@
         <last_name>Ivanov</last_name>
         <type>ALCOHOL</type>
         <Fine_amount>5600.00</Fine_amount>
-    </violation>
-    <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -3282,15 +2817,8 @@
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -3328,18 +2856,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -3377,18 +2898,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -3426,18 +2940,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -3475,18 +2982,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -3522,20 +3022,13 @@
         <last_name>Ivanov</last_name>
         <type>ALCOHOL</type>
         <Fine_amount>5600.00</Fine_amount>
-    </violation>
-    <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -3573,18 +3066,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -3622,18 +3108,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -3671,18 +3150,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -3720,18 +3192,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -3769,18 +3234,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -3821,15 +3279,8 @@
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-    <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -3867,18 +3318,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -3916,18 +3360,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -3968,15 +3405,8 @@
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -4014,18 +3444,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -4063,18 +3486,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -4110,20 +3526,13 @@
         <last_name>Ivanov</last_name>
         <type>ALCOHOL</type>
         <Fine_amount>5600.00</Fine_amount>
-    </violation>
-    <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -4161,18 +3570,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -4210,18 +3612,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -4259,18 +3654,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -4308,18 +3696,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -4357,18 +3738,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -4404,21 +3778,13 @@
         <last_name>Ivanov</last_name>
         <type>ALCOHOL</type>
         <Fine_amount>5600.00</Fine_amount>
-    </violation>
-    <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
     </violation>
-
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -4456,18 +3822,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -4505,18 +3864,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -4554,18 +3906,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -4603,18 +3948,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -4655,15 +3993,8 @@
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -4699,20 +4030,13 @@
         <last_name>Ivanov</last_name>
         <type>ALCOHOL</type>
         <Fine_amount>5600.00</Fine_amount>
-    </violation>
-    <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -4750,18 +4074,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -4802,15 +4119,8 @@
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -4851,18 +4161,11 @@
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
+        <type>SPEEDING</type>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
-     <violation>
+    <violation>
         <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
-    </violation>
-    <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Viktor</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
@@ -4897,18 +4200,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -4946,18 +4242,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -4993,20 +4282,13 @@
         <last_name>Ivanov</last_name>
         <type>ALCOHOL</type>
         <Fine_amount>5600.00</Fine_amount>
-    </violation>
-    <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -5044,18 +4326,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -5093,18 +4368,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -5142,18 +4410,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -5191,18 +4452,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -5240,18 +4494,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -5287,20 +4534,13 @@
         <last_name>Ivanov</last_name>
         <type>ALCOHOL</type>
         <Fine_amount>5600.00</Fine_amount>
-    </violation>
-    <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -5338,18 +4578,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -5387,18 +4620,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -5436,18 +4662,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -5485,18 +4704,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -5537,15 +4749,8 @@
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -5581,20 +4786,13 @@
         <last_name>Ivanov</last_name>
         <type>ALCOHOL</type>
         <Fine_amount>5600.00</Fine_amount>
-    </violation>
-    <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -5632,18 +4830,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -5684,15 +4875,8 @@
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -5730,18 +4914,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -5779,18 +4956,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -5828,18 +4998,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -5875,21 +5038,13 @@
         <last_name>Ivanov</last_name>
         <type>ALCOHOL</type>
         <Fine_amount>5600.00</Fine_amount>
-    </violation>
-    <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
     </violation>
-
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -5927,18 +5082,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -5976,18 +5124,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -6025,18 +5166,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -6074,18 +5208,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -6123,18 +5250,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -6170,20 +5290,13 @@
         <last_name>Ivanov</last_name>
         <type>ALCOHOL</type>
         <Fine_amount>5600.00</Fine_amount>
-    </violation>
-    <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -6221,18 +5334,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -6270,18 +5376,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -6319,18 +5418,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -6371,15 +5463,8 @@
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -6417,18 +5502,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -6464,20 +5542,13 @@
         <last_name>Ivanov</last_name>
         <type>ALCOHOL</type>
         <Fine_amount>5600.00</Fine_amount>
-    </violation>
-    <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -6518,15 +5589,8 @@
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -6564,18 +5628,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -6613,18 +5670,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -6662,18 +5712,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -6711,18 +5754,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -6758,20 +5794,13 @@
         <last_name>Ivanov</last_name>
         <type>ALCOHOL</type>
         <Fine_amount>5600.00</Fine_amount>
-    </violation>
-    <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -6809,18 +5838,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -6858,18 +5880,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -6907,18 +5922,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -6956,18 +5964,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -7005,18 +6006,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -7057,15 +6051,8 @@
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-    <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -7103,18 +6090,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -7152,18 +6132,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -7204,15 +6177,8 @@
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -7253,15 +6219,1100 @@
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
+        <type>SPEEDING</type>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
-     <violation>
+    <violation>
         <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
+        <first_name>Viktor</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>2400.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>RED_COLOR</type>
+        <Fine_amount>540.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PHONE</type>
+        <Fine_amount>340.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PARKING</type>
+        <Fine_amount>280.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>ALCOHOL</type>
+        <Fine_amount>5600.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>200.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Viktor</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>2400.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>RED_COLOR</type>
+        <Fine_amount>540.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PHONE</type>
+        <Fine_amount>340.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PARKING</type>
+        <Fine_amount>280.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>ALCOHOL</type>
+        <Fine_amount>5600.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>200.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Viktor</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>2400.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>RED_COLOR</type>
+        <Fine_amount>540.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PHONE</type>
+        <Fine_amount>340.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PARKING</type>
+        <Fine_amount>280.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>ALCOHOL</type>
+        <Fine_amount>5600.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>200.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Viktor</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>2400.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>RED_COLOR</type>
+        <Fine_amount>540.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PHONE</type>
+        <Fine_amount>340.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PARKING</type>
+        <Fine_amount>280.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>ALCOHOL</type>
+        <Fine_amount>5600.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>200.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Viktor</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>2400.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>RED_COLOR</type>
+        <Fine_amount>540.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PHONE</type>
+        <Fine_amount>340.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PARKING</type>
+        <Fine_amount>280.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>ALCOHOL</type>
+        <Fine_amount>5600.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>200.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Viktor</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>2400.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>RED_COLOR</type>
+        <Fine_amount>540.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PHONE</type>
+        <Fine_amount>340.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PARKING</type>
+        <Fine_amount>280.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>ALCOHOL</type>
+        <Fine_amount>5600.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>200.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Viktor</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>2400.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>RED_COLOR</type>
+        <Fine_amount>540.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PHONE</type>
+        <Fine_amount>340.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PARKING</type>
+        <Fine_amount>280.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>ALCOHOL</type>
+        <Fine_amount>5600.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>200.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Viktor</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>2400.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>RED_COLOR</type>
+        <Fine_amount>540.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PHONE</type>
+        <Fine_amount>340.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PARKING</type>
+        <Fine_amount>280.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>ALCOHOL</type>
+        <Fine_amount>5600.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>200.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Viktor</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>2400.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>RED_COLOR</type>
+        <Fine_amount>540.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PHONE</type>
+        <Fine_amount>340.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PARKING</type>
+        <Fine_amount>280.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>ALCOHOL</type>
+        <Fine_amount>5600.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>200.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Viktor</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>2400.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>RED_COLOR</type>
+        <Fine_amount>540.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PHONE</type>
+        <Fine_amount>340.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PARKING</type>
+        <Fine_amount>280.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>ALCOHOL</type>
+        <Fine_amount>5600.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>200.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Viktor</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>2400.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>RED_COLOR</type>
+        <Fine_amount>540.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PHONE</type>
+        <Fine_amount>340.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PARKING</type>
+        <Fine_amount>280.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>ALCOHOL</type>
+        <Fine_amount>5600.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>200.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Viktor</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>2400.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>RED_COLOR</type>
+        <Fine_amount>540.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PHONE</type>
+        <Fine_amount>340.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PARKING</type>
+        <Fine_amount>280.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>ALCOHOL</type>
+        <Fine_amount>5600.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>200.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Viktor</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>2400.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>RED_COLOR</type>
+        <Fine_amount>540.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PHONE</type>
+        <Fine_amount>340.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PARKING</type>
+        <Fine_amount>280.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>ALCOHOL</type>
+        <Fine_amount>5600.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>200.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Viktor</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>2400.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>RED_COLOR</type>
+        <Fine_amount>540.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PHONE</type>
+        <Fine_amount>340.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PARKING</type>
+        <Fine_amount>280.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>ALCOHOL</type>
+        <Fine_amount>5600.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>200.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Viktor</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>2400.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>RED_COLOR</type>
+        <Fine_amount>540.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PHONE</type>
+        <Fine_amount>340.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PARKING</type>
+        <Fine_amount>280.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>ALCOHOL</type>
+        <Fine_amount>5600.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>200.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Viktor</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>2400.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>RED_COLOR</type>
+        <Fine_amount>540.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PHONE</type>
+        <Fine_amount>340.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PARKING</type>
+        <Fine_amount>280.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>ALCOHOL</type>
+        <Fine_amount>5600.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>200.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Viktor</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>2400.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>RED_COLOR</type>
+        <Fine_amount>540.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PHONE</type>
+        <Fine_amount>340.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PARKING</type>
+        <Fine_amount>280.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>ALCOHOL</type>
+        <Fine_amount>5600.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>200.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Viktor</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>2400.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>RED_COLOR</type>
+        <Fine_amount>540.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PHONE</type>
+        <Fine_amount>340.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PARKING</type>
+        <Fine_amount>280.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>ALCOHOL</type>
+        <Fine_amount>5600.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>200.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Viktor</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>2400.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>RED_COLOR</type>
+        <Fine_amount>540.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PHONE</type>
+        <Fine_amount>340.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PARKING</type>
+        <Fine_amount>280.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>ALCOHOL</type>
+        <Fine_amount>5600.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>200.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Viktor</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>2400.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>RED_COLOR</type>
+        <Fine_amount>540.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PHONE</type>
+        <Fine_amount>340.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PARKING</type>
+        <Fine_amount>280.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>ALCOHOL</type>
+        <Fine_amount>5600.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>200.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Viktor</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>2400.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>RED_COLOR</type>
+        <Fine_amount>540.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PHONE</type>
+        <Fine_amount>340.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PARKING</type>
+        <Fine_amount>280.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>ALCOHOL</type>
+        <Fine_amount>5600.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>200.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Viktor</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>2400.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>RED_COLOR</type>
+        <Fine_amount>540.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PHONE</type>
+        <Fine_amount>340.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PARKING</type>
+        <Fine_amount>280.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>ALCOHOL</type>
+        <Fine_amount>5600.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>200.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Viktor</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>2400.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>RED_COLOR</type>
+        <Fine_amount>540.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PHONE</type>
+        <Fine_amount>340.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PARKING</type>
+        <Fine_amount>280.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>ALCOHOL</type>
+        <Fine_amount>5600.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>200.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Viktor</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>2400.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>RED_COLOR</type>
+        <Fine_amount>540.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PHONE</type>
+        <Fine_amount>340.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PARKING</type>
+        <Fine_amount>280.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>ALCOHOL</type>
+        <Fine_amount>5600.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>200.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Viktor</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>2400.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>RED_COLOR</type>
+        <Fine_amount>540.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PHONE</type>
+        <Fine_amount>340.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PARKING</type>
+        <Fine_amount>280.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>ALCOHOL</type>
+        <Fine_amount>5600.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>200.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Viktor</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>2400.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>RED_COLOR</type>
+        <Fine_amount>540.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PHONE</type>
+        <Fine_amount>340.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PARKING</type>
+        <Fine_amount>280.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>ALCOHOL</type>
+        <Fine_amount>5600.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -7299,18 +7350,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -7346,21 +7390,55 @@
         <last_name>Ivanov</last_name>
         <type>ALCOHOL</type>
         <Fine_amount>5600.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>200.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Viktor</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>2400.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>RED_COLOR</type>
+        <Fine_amount>540.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PHONE</type>
+        <Fine_amount>340.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
+        <Fine_amount>280.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>ALCOHOL</type>
+        <Fine_amount>5600.00</Fine_amount>
     </violation>
-
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -7398,18 +7476,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -7450,15 +7521,8 @@
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -7496,18 +7560,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -7545,18 +7602,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -7594,18 +7644,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -7641,20 +7684,55 @@
         <last_name>Ivanov</last_name>
         <type>ALCOHOL</type>
         <Fine_amount>5600.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>200.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Viktor</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>2400.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>RED_COLOR</type>
+        <Fine_amount>540.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
+        <type>PHONE</type>
+        <Fine_amount>340.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
         <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
+        <Fine_amount>280.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
+        <type>ALCOHOL</type>
+        <Fine_amount>5600.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -7692,18 +7770,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -7739,20 +7810,55 @@
         <last_name>Ivanov</last_name>
         <type>ALCOHOL</type>
         <Fine_amount>5600.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>200.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Viktor</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>2400.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>RED_COLOR</type>
+        <Fine_amount>540.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
+        <type>PHONE</type>
+        <Fine_amount>340.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
         <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
+        <Fine_amount>280.00</Fine_amount>
     </violation>
-     <violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>ALCOHOL</type>
+        <Fine_amount>5600.00</Fine_amount>
+    </violation>
+    <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -7788,20 +7894,55 @@
         <last_name>Ivanov</last_name>
         <type>ALCOHOL</type>
         <Fine_amount>5600.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>200.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Viktor</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>2400.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>RED_COLOR</type>
+        <Fine_amount>540.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PHONE</type>
+        <Fine_amount>340.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
+        <Fine_amount>280.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>ALCOHOL</type>
+        <Fine_amount>5600.00</Fine_amount>
     </violation>
-     <violation>
+    <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -7837,20 +7978,55 @@
         <last_name>Ivanov</last_name>
         <type>ALCOHOL</type>
         <Fine_amount>5600.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>200.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Viktor</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>2400.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>RED_COLOR</type>
+        <Fine_amount>540.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
+        <type>PHONE</type>
+        <Fine_amount>340.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
         <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
+        <Fine_amount>280.00</Fine_amount>
     </violation>
-     <violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>ALCOHOL</type>
+        <Fine_amount>5600.00</Fine_amount>
+    </violation>
+    <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -7891,15 +8067,50 @@
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>200.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Viktor</first_name>
+        <last_name>Ivanov</last_name>
+        <type>SPEEDING</type>
+        <Fine_amount>2400.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>RED_COLOR</type>
+        <Fine_amount>540.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>PHONE</type>
+        <Fine_amount>340.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
         <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
+        <Fine_amount>280.00</Fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-05-05 15:39:03</date_time>
+        <first_name>Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <type>ALCOHOL</type>
+        <Fine_amount>5600.00</Fine_amount>
     </violation>
-     <violation>
+    <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -7935,20 +8146,13 @@
         <last_name>Ivanov</last_name>
         <type>ALCOHOL</type>
         <Fine_amount>5600.00</Fine_amount>
-    </violation>
-    <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -7986,18 +8190,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -8035,18 +8232,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -8084,18 +8274,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -8136,15 +8319,8 @@
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -8182,18 +8358,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -8229,20 +8398,13 @@
         <last_name>Ivanov</last_name>
         <type>ALCOHOL</type>
         <Fine_amount>5600.00</Fine_amount>
-    </violation>
-    <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -8283,15 +8445,8 @@
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -8329,18 +8484,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -8378,18 +8526,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -8427,18 +8568,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -8476,18 +8610,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -8523,20 +8650,13 @@
         <last_name>Ivanov</last_name>
         <type>ALCOHOL</type>
         <Fine_amount>5600.00</Fine_amount>
-    </violation>
-    <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -8574,18 +8694,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -8623,18 +8736,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -8672,18 +8778,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -8721,18 +8820,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -8770,18 +8862,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -8822,16 +8907,8 @@
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-
-    <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -8869,18 +8946,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -8918,18 +8988,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -8970,15 +9033,8 @@
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -9016,18 +9072,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -9065,18 +9114,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -9112,20 +9154,13 @@
         <last_name>Ivanov</last_name>
         <type>ALCOHOL</type>
         <Fine_amount>5600.00</Fine_amount>
-    </violation>
-    <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -9163,18 +9198,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -9212,18 +9240,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -9261,18 +9282,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -9310,18 +9324,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -9359,18 +9366,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -9406,20 +9406,13 @@
         <last_name>Ivanov</last_name>
         <type>ALCOHOL</type>
         <Fine_amount>5600.00</Fine_amount>
-    </violation>
-    <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -9457,18 +9450,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -9506,18 +9492,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -9555,18 +9534,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -9604,18 +9576,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -9656,15 +9621,8 @@
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -9700,20 +9658,13 @@
         <last_name>Ivanov</last_name>
         <type>ALCOHOL</type>
         <Fine_amount>5600.00</Fine_amount>
-    </violation>
-    <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -9751,18 +9702,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -9803,15 +9747,8 @@
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -9849,18 +9786,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -9898,18 +9828,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -9947,18 +9870,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -9994,20 +9910,13 @@
         <last_name>Ivanov</last_name>
         <type>ALCOHOL</type>
         <Fine_amount>5600.00</Fine_amount>
-    </violation>
-    <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -10045,18 +9954,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -10094,18 +9996,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -10143,18 +10038,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -10192,18 +10080,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -10241,18 +10122,11 @@
         <Fine_amount>5600.00</Fine_amount>
     </violation>
     <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
-    </violation>
-     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
         <first_name>Ivan</first_name>
         <last_name>Ivanov</last_name>
         <type>SPEEDING</type>
-        <Fine_amount>2.00</Fine_amount>
+        <Fine_amount>200.00</Fine_amount>
     </violation>
     <violation>
         <date_time>2020-05-05 15:39:03</date_time>
@@ -10288,12 +10162,5 @@
         <last_name>Ivanov</last_name>
         <type>ALCOHOL</type>
         <Fine_amount>5600.00</Fine_amount>
-    </violation>
-    <violation>
-        <date_time>2020-05-05 15:39:03</date_time>
-        <first_name>Ivan</first_name>
-        <last_name>Ivanov</last_name>
-        <type>PARKING</type>
-        <Fine_amount>1000.00</Fine_amount>
     </violation>
 </violations>
